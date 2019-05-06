@@ -1,6 +1,6 @@
 # Finding_Potential_Donors
 
-The objective of this project is to implement a number of different `Ensemble Methods` and find the best one to recognize potetnial donors who can be invited to donate in a charity.
+The objective of this project is to implement a number of different `Ensemble Methods` and find the best one to recognize potetnial donors who can be invited to donate for a charity.
 
 The dataset is from [UCL Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Census+Income) and has a number of input features that contain biographic, social and economic information of more than 45000 individuals. The target variable is the annual income which is expressed as above or below 50000 USD, which corresponds to a binary classification problem.
 
